@@ -1,0 +1,14 @@
+C:\Users\chola\csharplab\exp2\obj\Debug\net8.0\exp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chola\csharplab\exp2\obj\Debug\net8.0\exp2.AssemblyInfoInputs.cache
+C:\Users\chola\csharplab\exp2\obj\Debug\net8.0\exp2.AssemblyInfo.cs
+C:\Users\chola\csharplab\exp2\obj\Debug\net8.0\exp2.csproj.CoreCompileInputs.cache
+C:\Users\chola\csharplab\exp2\bin\Debug\net8.0\exp2.exe
+C:\Users\chola\csharplab\exp2\bin\Debug\net8.0\exp2.deps.json
+C:\Users\chola\csharplab\exp2\bin\Debug\net8.0\exp2.runtimeconfig.json
+C:\Users\chola\csharplab\exp2\bin\Debug\net8.0\exp2.dll
+C:\Users\chola\csharplab\exp2\bin\Debug\net8.0\exp2.pdb
+C:\Users\chola\csharplab\exp2\obj\Debug\net8.0\exp2.dll
+C:\Users\chola\csharplab\exp2\obj\Debug\net8.0\refint\exp2.dll
+C:\Users\chola\csharplab\exp2\obj\Debug\net8.0\exp2.pdb
+C:\Users\chola\csharplab\exp2\obj\Debug\net8.0\exp2.genruntimeconfig.cache
+C:\Users\chola\csharplab\exp2\obj\Debug\net8.0\ref\exp2.dll

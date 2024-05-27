@@ -1,0 +1,14 @@
+C:\Users\chola\csharplab\exp5\obj\Debug\net8.0\exp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chola\csharplab\exp5\obj\Debug\net8.0\exp5.AssemblyInfoInputs.cache
+C:\Users\chola\csharplab\exp5\obj\Debug\net8.0\exp5.AssemblyInfo.cs
+C:\Users\chola\csharplab\exp5\obj\Debug\net8.0\exp5.csproj.CoreCompileInputs.cache
+C:\Users\chola\csharplab\exp5\bin\Debug\net8.0\exp5.exe
+C:\Users\chola\csharplab\exp5\bin\Debug\net8.0\exp5.deps.json
+C:\Users\chola\csharplab\exp5\bin\Debug\net8.0\exp5.runtimeconfig.json
+C:\Users\chola\csharplab\exp5\bin\Debug\net8.0\exp5.dll
+C:\Users\chola\csharplab\exp5\bin\Debug\net8.0\exp5.pdb
+C:\Users\chola\csharplab\exp5\obj\Debug\net8.0\exp5.dll
+C:\Users\chola\csharplab\exp5\obj\Debug\net8.0\refint\exp5.dll
+C:\Users\chola\csharplab\exp5\obj\Debug\net8.0\exp5.pdb
+C:\Users\chola\csharplab\exp5\obj\Debug\net8.0\exp5.genruntimeconfig.cache
+C:\Users\chola\csharplab\exp5\obj\Debug\net8.0\ref\exp5.dll
